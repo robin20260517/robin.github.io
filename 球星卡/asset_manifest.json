@@ -1,0 +1,18 @@
+{
+  "source_html": "legend_card_h5_v4_chances_toast_titles_fix.html",
+  "output_html": "legend_card_h5_v4_external_assets_optimized.html",
+  "base64_replaced_total": 54,
+  "base64_unique_files": 39,
+  "dicebear_unique_after": 12,
+  "stimg_urls_still_need_new_external_replacements": [
+    "https://stimg.de/img/2026/05/11/AthGN.png",
+    "https://stimg.de/img/2026/05/12/At2x1.png",
+    "https://stimg.de/img/2026/05/12/AtCTu.png",
+    "https://stimg.de/img/2026/05/12/AtFIA.png",
+    "https://stimg.de/img/2026/05/12/AtXAq.png",
+    "https://stimg.de/img/2026/05/12/AtcBh.png",
+    "https://stimg.de/img/2026/05/12/AtpZ2.png",
+    "https://stimg.de/img/2026/05/12/AtxFw.png"
+  ],
+  "note": "Base64/data images were extracted to assets/. stimg.de remote images cannot be replaced without the new URLs or downloaded image files."
+}
